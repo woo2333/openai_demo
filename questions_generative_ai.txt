@@ -4,11 +4,10 @@
 2. I want you to act as a data science instructor. Explain [AI generated Content ] to a data scientist?
 
 
-I want you to act as a data science instructor. Explain [generative AI ] to an Data scientist
+I want you to act as a data science instructor. Explain [generative AI ] to a Data scientist
 
 
-I want you to act as a data science instructor. Explain [generative AI ] to an Businessstackholder?
-
+I want you to act as a data science instructor. Explain [generative AI ] to a Business stakeholder?
 
 
 which model will be used by generative AI?
@@ -35,7 +34,7 @@ how about Baidu?
 are there some APIs that made by open AI for Generative AI?
 
 
-how can i use GPT  API? please show me some code and explain this to a Data scientist
+how can i use GPT API? please show me some code and explain this to a data scientist
 
 
 what is the range of temperature?
@@ -57,7 +56,7 @@ which algorithm will be used by Open AI Embedding API?
 dose this base on the paper "transformer attention is all you need"?
 
 
-can you please explain transformer to a datascientist?
+can you please explain transformer to a data scientist?
 
 
 can you give me some use cases with Embedding API? explain this to a Data scientist

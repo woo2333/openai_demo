@@ -1,0 +1,72 @@
+1. I want you to act as a data science instructor. Explain [AI generated Content ] to a five-year-old
+
+
+2. I want you to act as a data science instructor. Explain [AI generated Content ] to a data scientist?
+
+
+I want you to act as a data science instructor. Explain [generative AI ] to an Data scientist
+
+
+I want you to act as a data science instructor. Explain [generative AI ] to an Businessstackholder?
+
+
+
+which model will be used by generative AI?
+
+
+what is GPT?
+
+
+what is the relationship between GPT and LLMs?
+
+
+how can I train the LLM? 
+
+
+how many GPUs do I need to train LLM?
+
+
+who are the most famous companies behind generative AI?
+
+
+how about Baidu?
+
+
+are there some APIs that made by open AI for Generative AI?
+
+
+how can i use GPT  API? please show me some code and explain this to a Data scientist
+
+
+what is the range of temperature?
+
+
+what is the parameter n?
+
+
+please use the temprature 0.0 to answer my question
+
+
+what is the open ai embeding API? how can I use it?
+
+
+
+which algorithm will be used by Open AI Embedding API?
+
+
+dose this base on the paper "transformer attention is all you need"?
+
+
+can you please explain transformer to a datascientist?
+
+
+can you give me some use cases with Embedding API? explain this to a Data scientist
+
+
+where can i find the open ai API documents?
+
+
+what is the Hallucinations? explain this to a data scientist
+
+
+
